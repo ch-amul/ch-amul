@@ -8,4 +8,5 @@
 - 💬 Ask me about my [Projects](https://github.com/ch-amul?tab=repositories)
 - 📫 How to reach me: chamul91@gmail.com
 - ⚡ Fun fact: I'm a good guy 
+ - :cyclone: [Linkedin] (https://www.linkedin.com/in/praneet-amul-akash-cherukuri/)
 -->
