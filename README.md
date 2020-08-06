@@ -9,5 +9,5 @@
 - 📫 How to reach me: chamul91@gmail.com
 - ⚡ Fun fact: I'm a good guy 
 - :cyclone: [Linkedin](https://www.linkedin.com/in/praneet-amul-akash-cherukuri/)
-- :earth_asia: [My Personal Website](www.chamul.me)
+- :earth_asia: [My Personal Website](https://chamul.me/)
 -->
