@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning Neural Networks and Data Visualization
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects
 - 💬 Ask me about my [Projects](https://github.com/ch-amul?tab=repositories)
-- 📫 How to reach me: chamul91@gmail.com
-- ⚡ Fun fact: I'm a good guy 
+- 📫 How to reach me: amul.ch99@gmail.com
 - :cyclone: [Linkedin](https://www.linkedin.com/in/praneet-amul-akash-cherukuri/)
 - :earth_asia: [My Personal Website](https://chamul.me/)
 -->
